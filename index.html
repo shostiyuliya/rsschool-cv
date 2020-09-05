@@ -49,54 +49,7 @@
       </section>
       <section class="latest-code">
         <h2 class="section-title">Latest code example</h2>
-        <p>Task about cash from CS50 course.</p>
-        <pre>
-          <code>
-            #include stdio.h
-            #include cs50.h
-            #include math.h
-
-            int main(void) {
-            int twentyFive = 25;
-            int ten = 10;
-            int five = 5;
-            int one = 1;
-
-            float change;
-
-            int coins = 0;
-
-            do {
-                change = get_float("Change owed: ");
-            }
-            while (change < 0);
-
-            int cents = round(change * 100);
-            while(cents > 0) {
-                if  (cents >= twentyFive) {
-                    cents = cents - twentyFive;
-                    coins++;
-                } else {
-                    if (cents >= ten) {
-                        cents = cents - ten;
-                        coins++;
-                    } else {
-                        if (cents >= five) {
-                            cents = cents - five;
-                            coins++;
-                        } else {
-                            if (cents >= one) {
-                                cents = cents - one;
-                                coins++;
-                            }
-                        }
-                    }
-                }
-            }
-            printf("%i\n", coins);
-              }
-          </code>
-        </pre>
+        <a href="https://github.com/shostiyuliya">GitHub</a>
       </section>
       <section class="experience">
         <h2 class="section-title">Experience</h2>
@@ -121,7 +74,7 @@
           </li>
           <li class="education-item">
             <h4 class="education-name">Udemy</h4>
-            <p class="education-description">Moder JS by Brad Traversy</p>
+            <p class="education-description">Modern JS by Brad Traversy</p>
           </li>
           <li class="education-item">
             <h4 class="education-name">Intexsoft</h4>
