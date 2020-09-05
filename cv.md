@@ -1,6 +1,6 @@
 # Vilcheuskaya Yuliya
 
-### Contact Info
+## Contact Info
 
 **Phone:** +375336540199
 
@@ -10,13 +10,13 @@
 
 **Skype name:** live:798c4c229d5c4bd2
 
-### Summary
+## Summary
 
 Junior software developer with a strong desire to increase professional skills. Currently
 focused on web development. Already finished native JavaScript online courses, HTML/CSS and Angular course.
 Looking for internship and further employment. Ready for challenges and accomplishments.
 
-### Skills
+## Skills
 
 * JavaScript/ES6/TypeScript
 * HTML
@@ -26,7 +26,7 @@ Looking for internship and further employment. Ready for challenges and accompli
 * NgRX
 * Git
 
-### Latest code example
+## Latest code example
 
 Task about cash from CS50 course
 
@@ -76,7 +76,7 @@ int main(void) {
 }
 ```
 
-### Experience
+## Experience
 
 1. Recipe book
 
@@ -86,7 +86,7 @@ state management and Angular Material.
 
 [Link to gitHub](https://github.com/shostiyuliya/recipe-book-project)
 
-### Education
+## Education
 
 * **Grodno State University**
 
@@ -105,7 +105,7 @@ Moder JS by Brad Traversy
 
 Angular course
 
-### English
+## English
 
 * **EF SET Certificate**
 
